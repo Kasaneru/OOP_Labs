@@ -13,6 +13,10 @@ TEST(HW_compare, third_test) {
     EXPECT_EQ(hw_sum(12, 40), 82);
 }
 
+TEST(HW_compare, null_test) {
+    EXPECT_EQ(hw_sum(0, 0), 0);
+}
+
 int main(int argc, char **argv) {
   ::testing::InitGoogleTest(&argc, argv);
   return RUN_ALL_TESTS();
