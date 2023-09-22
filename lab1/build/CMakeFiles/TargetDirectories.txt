@@ -1,0 +1,5 @@
+/home/taida/Programming/OOP_Labs/lab1/build/CMakeFiles/lab1.dir
+/home/taida/Programming/OOP_Labs/lab1/build/CMakeFiles/unit_tests.dir
+/home/taida/Programming/OOP_Labs/lab1/build/CMakeFiles/test.dir
+/home/taida/Programming/OOP_Labs/lab1/build/CMakeFiles/edit_cache.dir
+/home/taida/Programming/OOP_Labs/lab1/build/CMakeFiles/rebuild_cache.dir
