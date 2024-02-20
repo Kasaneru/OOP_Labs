@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wall -rdynamic CMakeFiles/tests.dir/tests/tests.cpp.o CMakeFiles/tests.dir/src/allocator.cpp.o -o tests  /usr/lib/libgtest.so.1.14.0 

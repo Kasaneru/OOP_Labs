@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wall -rdynamic CMakeFiles/tests.dir/src/tests.cpp.o CMakeFiles/tests.dir/src/Hex.cpp.o -o tests  /usr/lib/libgtest.so.1.14.0 

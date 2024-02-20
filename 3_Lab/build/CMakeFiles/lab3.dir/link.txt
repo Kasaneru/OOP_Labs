@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wall -rdynamic CMakeFiles/lab3.dir/src/main.cpp.o CMakeFiles/lab3.dir/src/Figures/Quadangle.cpp.o CMakeFiles/lab3.dir/src/Figures/Rectangle.cpp.o CMakeFiles/lab3.dir/src/Figures/Square.cpp.o CMakeFiles/lab3.dir/src/Figures/Trapezoid.cpp.o CMakeFiles/lab3.dir/src/Vector.cpp.o -o lab3 

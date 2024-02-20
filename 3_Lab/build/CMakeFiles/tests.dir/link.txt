@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wall -rdynamic CMakeFiles/tests.dir/src/tests/tests.cpp.o CMakeFiles/tests.dir/src/Figures/Quadangle.cpp.o CMakeFiles/tests.dir/src/Figures/Rectangle.cpp.o CMakeFiles/tests.dir/src/Figures/Square.cpp.o CMakeFiles/tests.dir/src/Figures/Trapezoid.cpp.o CMakeFiles/tests.dir/src/Vector.cpp.o -o tests  /usr/lib/libgtest.so.1.14.0 
