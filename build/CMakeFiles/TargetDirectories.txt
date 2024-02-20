@@ -1,5 +1,0 @@
-/home/taida/Programming/OOP_Labs/6_Lab/build/CMakeFiles/Lab6_lib.dir
-/home/taida/Programming/OOP_Labs/6_Lab/build/CMakeFiles/Lab6_exe.dir
-/home/taida/Programming/OOP_Labs/6_Lab/build/CMakeFiles/Lab6_game_tests.dir
-/home/taida/Programming/OOP_Labs/6_Lab/build/CMakeFiles/edit_cache.dir
-/home/taida/Programming/OOP_Labs/6_Lab/build/CMakeFiles/rebuild_cache.dir
